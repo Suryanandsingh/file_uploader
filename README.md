@@ -10,7 +10,7 @@ You can install the module using pip:
 
 ```bash
 pip install .
-
+```
 
 ## Usage
 
